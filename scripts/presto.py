@@ -37,7 +37,7 @@ def main():
     cmd = 'echo =================Running QC =============== >>' + log + ' 2>&1 & wait \n'
     cmd += 'echo ============================================================ >>' + log + ' 2>&1 & wait \n'
     cmd += 'echo Authors: Chunlei Yu                        >>' + log + ' 2>&1 & wait \n'
-    cmd += 'echo Contact: cyu5@mdanderson.org                      >>' + log + ' 2>&1 & wait \n'
+    cmd += 'echo Contact: chunlei.yu1990@gmail.com                      >>' + log + ' 2>&1 & wait \n'
     cmd += 'echo tool version: presto  0.5.10-2018.10.19    >>' + log + ' 2>&1 & wait \n'
     cmd += 'echo ================================================= >>' + log + ' 2>&1 & wait \n'
     for i in range((int)(start) - 1, (int)(end)):
